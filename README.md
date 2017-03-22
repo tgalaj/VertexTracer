@@ -11,7 +11,5 @@ The newest features (may be **unstable**) will be pushed to **develop** branch a
 - [ ] Calculate AS coefficients at fly (for a fog)
 
 ### Dependencies' versions
-- SDL  2.0.4 (stable)
-- GLEW 2.0.0
-- FreeImage 3.17.0
+- stb_image
 - Assimp 3.2
